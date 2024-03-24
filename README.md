@@ -1,4 +1,6 @@
 # SA.01-Week-1-Code-Challenge
+# Date: 2024/03/24
+# By: Eugene Emoyo Ojakaa.
 This code challenge has three types of projects;
 1. Student Grade Generator.
 2. Speed detector.
@@ -63,6 +65,8 @@ That's it! You've successfully cloned a project from GitHub. Now you can navigat
 
 
 Live Link.
+
+                           
 
 
 Technologies Used.
